@@ -18,7 +18,9 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 7px rgba(0, 0, 0, 0.15);
     resize: none;
-    font-family: sans-serif;
+    font-weight: bolder;
+    background-color: lemonchiffon;
+    font-family: monospace;
     font-size: 16px;
   }
   
