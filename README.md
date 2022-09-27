@@ -13,7 +13,7 @@ include new notes/messages whenever.
 * JavaScript
 * Local Storage
 
-# Screenshots
+#
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/82060967/192546011-79de0c42-8985-457a-9630-bbb5f8ed3aa7.png">
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/82060967/192546190-bdf6c5dc-f135-436c-bc36-4bf6d79b9509.png">
